@@ -1,0 +1,12 @@
+body {
+	background: url("executive.png") no-repeat center center fixed, #f0b2c1;
+	background-size: cover;
+}
+
+@media screen and (max-width: 900px) {
+	
+	body {
+		background-size:contain;
+	}
+	
+}
