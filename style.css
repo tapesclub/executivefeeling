@@ -10,3 +10,14 @@ body {
 	}
 	
 }
+
+.hello-link {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  padding: 0.5rem 0.75rem;
+  color: #30232b;
+  background: #f0b2c1;
+  font: 1rem Georgia, serif;
+  text-underline-offset: 0.2em;
+}
